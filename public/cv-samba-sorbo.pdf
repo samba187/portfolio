@@ -1,0 +1,139 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+
+2 0 obj
+<< /Type /Pages /Kids [3 0 R] /Count 1 >>
+endobj
+
+3 0 obj
+<< /Type /Page /Parent 2 0 R /Resources << /Font << /F1 4 0 R >> >> /MediaBox [0 0 612 792] /Contents 5 0 R >>
+endobj
+
+4 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica >>
+endobj
+
+5 0 obj
+<< /Length 2000 >>
+stream
+BT
+/F1 24 Tf
+50 720 Td
+(SAMBA SORBO) Tj
+0 -30 Td
+/F1 12 Tf
+(Etudiant BUT3 Informatique en Alternance) Tj
+0 -20 Td
+(Developpement Informatique & Technologies Web) Tj
+
+0 -40 Td
+/F1 16 Tf
+(CONTACT) Tj
+0 -20 Td
+/F1 10 Tf
+(Email: sorbosamba@gmail.com) Tj
+0 -15 Td
+(Telephone: +33 6 16 47 91 03) Tj
+0 -15 Td
+(Localisation: Paris, France) Tj
+0 -15 Td
+(GitHub: github.com/samba187) Tj
+0 -15 Td
+(LinkedIn: linkedin.com/in/samba-sorbo-15092b1a9) Tj
+
+0 -40 Td
+/F1 16 Tf
+(EXPERIENCE PROFESSIONNELLE) Tj
+0 -20 Td
+/F1 12 Tf
+(EDVANCE - Ingenierie Nucleaire) Tj
+0 -15 Td
+/F1 10 Tf
+(Developpeur Logiciel - Pole Outils - Service CTR) Tj
+0 -12 Td
+(Septembre 2023 - Aout 2025) Tj
+0 -15 Td
+(• Developpement d'applications metiers) Tj
+0 -12 Td
+(• Maintenance et evolution des outils existants) Tj
+0 -12 Td
+(• Conception de bases de donnees) Tj
+0 -12 Td
+(Technologies: Python, C#, Angular, PostgreSQL, SQLite) Tj
+
+0 -30 Td
+/F1 16 Tf
+(FORMATION) Tj
+0 -20 Td
+/F1 12 Tf
+(BUT Informatique - 3eme annee) Tj
+0 -15 Td
+/F1 10 Tf
+(Specialisation: Developpement Informatique & Technologies Web) Tj
+0 -12 Td
+(En cours - Diplome prevu en 2025) Tj
+
+0 -30 Td
+/F1 16 Tf
+(PROJETS PRINCIPAUX) Tj
+0 -20 Td
+/F1 12 Tf
+(ChatBot Automobile RAG - 2024-2025) Tj
+0 -15 Td
+/F1 10 Tf
+(Assistant virtuel specialise automobile utilisant RAG) Tj
+0 -12 Td
+(Technologies: Python, Flask, MongoDB, Mistral 7B, Angular) Tj
+
+0 -15 Td
+/F1 12 Tf
+(Detection Age & Genre par CNN - 2024) Tj
+0 -15 Td
+/F1 10 Tf
+(Systeme de reconnaissance faciale multi-taches) Tj
+0 -12 Td
+(Technologies: TensorFlow, Keras, Python, Streamlit, OpenCV) Tj
+
+0 -15 Td
+/F1 12 Tf
+(QariApp - Evaluation Recitation Coran - 2024) Tj
+0 -15 Td
+/F1 10 Tf
+(PWA d'evaluation automatique utilisant Whisper d'OpenAI) Tj
+0 -12 Td
+(Technologies: React, PWA, Python, Flask, Whisper, MongoDB) Tj
+
+0 -30 Td
+/F1 16 Tf
+(COMPETENCES TECHNIQUES) Tj
+0 -20 Td
+/F1 10 Tf
+(Langages: Python, JavaScript, Java, C#, SQL) Tj
+0 -12 Td
+(Frameworks: React, Angular, Flask, Node.js) Tj
+0 -12 Td
+(Bases de donnees: MongoDB, PostgreSQL, SQLite) Tj
+0 -12 Td
+(Outils: Git, Docker, PyQt, Streamlit) Tj
+0 -12 Td
+(IA/ML: TensorFlow, Keras, OpenAI API, Whisper) Tj
+
+ET
+endstream
+endobj
+
+xref
+0 6
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000115 00000 n 
+0000000245 00000 n 
+0000000312 00000 n 
+trailer
+<< /Size 6 /Root 1 0 R >>
+startxref
+2365
+%%EOF
