@@ -553,12 +553,12 @@ export default function PortfolioBUT() {
                  <div className="text-3xl font-bold text-purple-600">3</div>
                  <div className="text-sm text-gray-500">Années</div>
                </div>
-               <div className="text-center">
+              {/*<div className="text-center">
                  <div className="text-3xl font-bold text-purple-600">
                    <AnimatedCounter end={5} />
                  </div>
                  <div className="text-sm text-gray-500">Certifications</div>
-               </div>
+               </div>*/}
              </div>
            </div>
 
